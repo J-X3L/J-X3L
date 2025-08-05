@@ -57,6 +57,25 @@
 
 <br>
 
+<div align="center"> <a href="https://github.com/J-X3L"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J-X3L&show_icons=true&theme=default&title_color=3b57ab&text_color=333&icon_color=3b57ab&hide_border=true" alt="Jerry's GitHub stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-X3L&layout=compact&theme=default&title_color=3b57ab&text_color=333&hide_border=true" alt="Top Languages" /> </a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-X3L&theme=default&hide_border=true&stroke=3b57ab" alt="GitHub Streak" /></div>
+
+<div align="center">
+https://img.shields.io/badge/LinkedIn-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Twitter-%25231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
+https://img.shields.io/badge/Instagram-%2523E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
+https://img.shields.io/badge/Facebook-%25231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white
+https://img.shields.io/badge/Discord-%25235865F2.svg?style=for-the-badge&logo=discord&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
+
+</div>
+<div align="center">
+https://github.com/J-X3L/J-X3L/blob/output/github-contribution-grid-snake.svg
+
+</div> 
+
+<br>
+
 ## 🚀 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 
 ```javascript
@@ -69,3 +88,5 @@ const jerry = {
   learning: ["Cybersecurity", "Python", "Backend Development"],
   funFact: "I might get sidetracked sometimes, but I always find my way back to coding!"
 };
+
+
