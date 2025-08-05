@@ -1,9 +1,11 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3b57ab&center=true&vCenter=true&width=435&lines=Hey+there!+👋;I'm+Jerry+Walker" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B57AB&center=true&vCenter=true&width=435&lines=Hey+there!+👋;I'm+Jerry+Walker" alt="Typing SVG" />
+  </a>
 </h1>
 
 <h3 align="center" style="color:#3b57ab">
-  < 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝚆𝚘𝚛𝚍𝙿𝚛𝚎𝚜𝚜 𝙴𝚡𝚙𝚎𝚛𝚝 | �𝙲𝚘𝚍𝚒𝚗𝚐 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 />
+  < 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝚆𝚘𝚛𝚍𝙿𝚛𝚎𝚜𝚜 𝙴𝚡𝚙𝚎𝚛𝚝 | 𝙲𝚘𝚍𝚒𝚗𝚐 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 />
 </h3>
 
 <p align="center">
@@ -37,7 +39,7 @@
 
 <div align="center">
   
-### �𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
+### 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
@@ -57,22 +59,31 @@
 
 <br>
 
-<div align="center"> <a href="https://github.com/J-X3L"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J-X3L&show_icons=true&theme=default&title_color=3b57ab&text_color=333&icon_color=3b57ab&hide_border=true" alt="Jerry's GitHub stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-X3L&layout=compact&theme=default&title_color=3b57ab&text_color=333&hide_border=true" alt="Top Languages" /> </a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-X3L&theme=default&hide_border=true&stroke=3b57ab" alt="GitHub Streak" /></div>
+## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
 <div align="center">
-https://img.shields.io/badge/LinkedIn-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-%25231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
-https://img.shields.io/badge/Instagram-%2523E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
-https://img.shields.io/badge/Facebook-%25231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white
-https://img.shields.io/badge/Discord-%25235865F2.svg?style=for-the-badge&logo=discord&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
+  <a href="https://github.com/J-X3L">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J-X3L&show_icons=true&theme=default&title_color=3b57ab&text_color=333&icon_color=3b57ab&hide_border=true" alt="Jerry's GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-X3L&layout=compact&theme=default&title_color=3b57ab&text_color=333&hide_border=true" alt="Top Languages" />
+  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-X3L&theme=default&hide_border=true&stroke=3b57ab" alt="GitHub Streak" />
+</div>
+
+<br>
+
+## 🤝 𝙻𝚎𝚝'𝚜 𝙲𝚘𝚗𝚗𝚎𝚌𝚝!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jerry-walker363)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jerry_walker_363)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/jerrywalker363)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jerrywalker063)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeremiahogwuche3535@gmail.com)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jerry_walker363)
 
 </div>
-<div align="center">
-https://github.com/J-X3L/J-X3L/blob/output/github-contribution-grid-snake.svg
-
-</div> 
 
 <br>
 
@@ -88,5 +99,3 @@ const jerry = {
   learning: ["Cybersecurity", "Python", "Backend Development"],
   funFact: "I might get sidetracked sometimes, but I always find my way back to coding!"
 };
-
-
